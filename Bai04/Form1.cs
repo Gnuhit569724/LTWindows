@@ -78,5 +78,10 @@ namespace Bai04
             }
             return dong; 
         }
+
+        private void button_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Order thành công", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

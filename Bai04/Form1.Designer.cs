@@ -298,6 +298,7 @@
             this.button.TabIndex = 6;
             this.button.Text = "Order";
             this.button.UseVisualStyleBackColor = true;
+            this.button.Click += new System.EventHandler(this.button_Click);
             // 
             // DataGridView1
             // 
