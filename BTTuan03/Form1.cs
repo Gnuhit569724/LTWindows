@@ -71,7 +71,6 @@ namespace BTTuan03
             {
                 lstBandau.Items.RemoveAt(lstBandau.SelectedIndices[i]);
             }
-            // hello everyone
         }
     }
 }
