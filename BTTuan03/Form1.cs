@@ -71,7 +71,6 @@ namespace BTTuan03
             {
                 lstBandau.Items.RemoveAt(lstBandau.SelectedIndices[i]);
             }
-            // demo push code len github bang github désktop
         }
     }
 }
